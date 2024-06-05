@@ -10,3 +10,4 @@ variable "skip_final_snapshot" {}
 variable "engine_version" {}
 variable "instance_count" {}
 variable "instance_class" {}
+variable "kms_key_id" {}
